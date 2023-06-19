@@ -1,0 +1,5 @@
+# Created at 2023-06-19T12:24:24.217
+Boot Manifest-JAR contains absolute paths in classpath 'd:\01 - IDAT\5.-Quinto Ciclo\1_Desarrollo_de_Servicios_Web_1\s5_clonado\restservice-rest-Saludo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
